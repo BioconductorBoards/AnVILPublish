@@ -145,7 +145,7 @@ modifications.
 
 1. Use the `Package:` field to provide a one-word identifier (e.g.,
    `Package: Bioc2020_CNV`) for your material. Add a key-value pair
-   `Type: Workshop` or similar. The `Pacakge:` and `Type:` fields will
+   `Type: Workshop` or similar. The `Package:` and `Type:` fields will
    be used to create the workspace name as, in the example here,
    `Bioconductor-Workshop-Bioc2020_CNV`.
 
